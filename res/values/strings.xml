@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Church on The Hill</string>
+    <string name="scripture_screen_available">Available</string>
+    <string name="view_pastor">View</string>
+    <string name="COTH_SERVICE_ERROR_GENERALFAILURE">Unable to connect to server. Please try again later.</string>
+    <string name="COTH_SERVICE_ERROR_SERVEREXCEPTION">A server exception has occured. Please try again later.</string>
+    <string name="COTH_SERVICE_ERROR_WRONGPARAMS">Please check all the input values, then try again.</string>
+    <string name="COTH_SERVICE_ERROR_ACCESSNOTALLOWED">You need to log in before you can access this.</string>
+    <string name="COTH_SERVICE_ERROR_NOTIMPLEMENTED">Unimplemented server method called.</string>
+    <string name="COTH_SERVICE_ERROR_NODATAFOUND">No results was found.</string>
+    <string name="COTH_SERVICE_ERROR_FAILEDAUTHENTICATION">Incorrect username and/or password.</string>
+    <string name="COTH_SERVICE_ERROR_UNKNOWN">Unknown error</string>
+    <string name="COTH_SERVICE_ERROR_REVIEW_NOT_ALLOWED">You are not allowed to review this expert.</string>
+    <string name="COTH_SERVICE_ERROR_REVIEW_WRONGPARAMS">An error has occurred submitting the review.</string>
+</resources>

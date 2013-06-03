@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:background="#00000000">
+
+    <RelativeLayout
+            android:id="@+id/homeScreenActivity_Section1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="#00000000"
+            android:padding="5dp" >
+        <TextView
+                android:id="@+id/homeScreenActivity_mainText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="PASTORS"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textSize="28dp"
+                android:textColor="#ffffff"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
